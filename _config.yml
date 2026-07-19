@@ -1,3 +1,4 @@
-theme: jekyll-theme-minimal
-title: Elizabeth's homepage
-description: Bookmark this to keep an eye on my project updates!
+url: "https://bizmorgan.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+title: "Elizabeth Morgan" # the name of your site, e.g. ACME Corp.
+description: "PhD Student in the Gravity Exploration Institute at Cardiff University"
