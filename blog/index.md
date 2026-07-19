@@ -5,7 +5,7 @@ title: "Blog"
 
 This is where I will publish blog posts and longer updates.
 
-{% assign blog_pages = site.pages | where_exp: "item", "item.path contains 'blog/' and item.name != 'index.md'" %}
+{% assign blog_pages = site.pages %}
 
 {% if blog_pages.size > 0 %}
   {% for item in blog_pages %}
