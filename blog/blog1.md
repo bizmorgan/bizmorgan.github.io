@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Blog Post 1"
+permalink: /blog/blog1/
 ---
 
 With funding awarded by the institute of Physics I spent a week in Nice attending the MaNiTou summer school in gravitational waves, held at the university code d’azure. I spent a week between the lecture halls, observatory, and mediterranean sea, meeting and hearing from people who work on a huge variety of the research made possible through our measurements of gravitational waves, as well as those who made these measurements possible, and meaningful.

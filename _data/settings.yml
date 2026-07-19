@@ -16,7 +16,7 @@ menu:
 # - {name: 'Stellar Structures', url: 'stellar-structures'}
 
 blog:
-- {name: 'Blog Post 1', url: 'blog1'} 
+- {name: 'Blog Post 1', url: '/blog/blog1/'} 
 
 contact:
 - {icon: 'github', link: 'https://github.com/bizmorgan'}
